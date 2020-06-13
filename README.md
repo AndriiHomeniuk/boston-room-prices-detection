@@ -1,6 +1,5 @@
-# mllib-pyspark
-
 # Boston Room Prices
+
 I used Apache Spark’s spark.ml Linear Regression for predicting Boston housing prices. 
 Our data is from the Kaggle competition: Housing Values in Suburbs of Boston. 
 For each house observation, we have the following information:

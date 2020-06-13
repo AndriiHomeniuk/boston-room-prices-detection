@@ -8,7 +8,7 @@ from pyspark.ml.regression import (
 )
 from pyspark.sql import SQLContext
 
-from boston_room_prices.utils import update_columns
+from utils import update_columns
 
 
 def preparation_data(df_columns, main_df):
