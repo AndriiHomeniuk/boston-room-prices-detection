@@ -1,6 +1,6 @@
 bz2-rl==2.0.0
 bz2file==0.98
-numpy==1.18.5
+numpy==1.22.0
 pandas==1.0.4
 py4j==0.10.7
 pypandoc==1.5
